@@ -1,2 +1,2 @@
-# monopoly_cli
+# MonopolyCLI
 Java implementation of the board game Monopoly, including special features such as special movements, deals...
